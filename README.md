@@ -8,6 +8,6 @@ Scripts are included to produce the raw data for key figures in the paper. These
 python -m scripts.fig5a_script
 ```
 
-See the ```scripts/``` directory for a full list of availible scripts to run.
+See the ```scripts/``` directory for a full list of available scripts to run.
 
 This repository also includes Poetry .toml and .lock files, should users with to manage packages with Poetry.
